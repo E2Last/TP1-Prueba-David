@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(122, 132, 140);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1{
+    position: centered;
+    color: rgb(255, 255, 255);
+}
